@@ -1,4 +1,5 @@
 ```mermaid
 flowchart LR
-Box 1
+
+Box1
 ```
